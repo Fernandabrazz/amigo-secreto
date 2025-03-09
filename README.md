@@ -21,9 +21,8 @@ link do projeto : http://127.0.0.1:5500/index.html.
 4. O nome sorteado será exibido na tela!
 
 ## 📸 Capturas de Tela
-![image](https://github.com/user-attachments/assets/5d11d677-01bb-4779-b4d4-6e4d565887a0)
 
-![image](https://github.com/user-attachments/assets/ea978481-eea0-4e36-afad-c80db902f76d)
+![image](https://github.com/user-attachments/assets/450d7856-4afa-47de-a34b-7c999b40beed)
 
 (Adicione imagens mostrando a interface do projeto, como a adição de nomes e o sorteio)
 
