@@ -2,6 +2,8 @@
 
 ## 📌 Sobre o projeto
 
+Estw Projeto faz parte do Curso de Praticando Logica de programação: Challenge amigo secreto, alura em parceria com ONE.
+
 O **Amigo Secreto** é um projeto simples e interativo para facilitar o sorteio de nomes em brincadeiras de amigo secreto. A aplicação permite adicionar nomes a uma lista e sortear um dos participantes aleatoriamente.
 
 link do projeto : http://127.0.0.1:5500/index.html.
